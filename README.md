@@ -28,8 +28,7 @@ Technologies Used
 Installation
 
     Clone the repository (or copy the script):
-
-git clone https://github.com/yourusername/csv-dashboard-viewer.git
+    
 cd csv-dashboard-viewer
 
 Install required packages (preferably in a virtual environment):
